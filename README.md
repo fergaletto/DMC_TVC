@@ -11,13 +11,13 @@ This is the official repository for the paper  "Single image defocus map estimat
 ## Defocus blur estimation
 
 <p float="left">
-    <img src='./images/x.png' width="150" height="150" hspace="5"/>
-    <img src='./images/b_map.png' width="150" height="150" hspace="5"/>
+    <img src='x.png' width="150" height="150" hspace="5"/>
+    <img src='b_map.png' width="150" height="150" hspace="5"/>
 
 </p>
 
 ## Refinement
 <p float="left">
-    <img src='./images/b_map.png' width="150" height="150" hspace="5"/>
-    <img src='./images/b_map_refined.png' width="150" height="150" hspace="5"/>
+    <img src='b_map.png' width="150" height="150" hspace="5"/>
+    <img src='b_map_refined.png' width="150" height="150" hspace="5"/>
 </p>
